@@ -1,4 +1,15 @@
-# Universe fixes-for-third-party-packages
+<h1 align="center">
+    <a href="https://github.com/vazco">vazco</a>/Universe fixes-for-third-party-packages
+</h1>
+
+&nbsp;
+
+<h3 align="center">
+  -- Abandonware. This package is deprecated! --
+</h3>
+
+&nbsp;
+
 This package contains fixes for third party packages.
 That brings them back to be used with Universe 
 
@@ -14,3 +25,9 @@ that All Class inherited* from Mongo.Collection isn't anymore instance of Mongo.
 
 ## collection-hooks
 collection hooks package works on universe collection 
+
+### License
+
+<img src="https://vazco.eu/banner.png" align="right">
+
+**Like every package maintained by [Vazco](https://vazco.eu/), Universe fixes-for-third-party-packages is [MIT licensed](https://github.com/vazco/uniforms/blob/master/LICENSE).**
